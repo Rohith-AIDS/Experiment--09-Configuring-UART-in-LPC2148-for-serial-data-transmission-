@@ -1,8 +1,9 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
-
-Name :	Gunaseelan G
-Roll no : 212221230031
+~~~
+Name :	SV ROHITHKUMAR
+Roll no : 212221230084
 Date of experiment : 25-11-2022
+~~~	
 
 ## Configuring UART in LPC2148 for serial data transmission 
 
