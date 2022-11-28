@@ -1,9 +1,4 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
-~~~
-Name :	SV ROHITHKUMAR
-Roll no : 212221230084
-Date of experiment : 25-11-2022
-~~~	
 
 ## Configuring UART in LPC2148 for serial data transmission 
 
@@ -48,6 +43,9 @@ UART0 Line Control Register (U0LCR): The Line Control Register is used to set th
 
 ## Kiel - Program 
 ```
+NAME:SV ROHITHKUMAR
+REG NO:212221230084
+
 #include <LPC213x.H> // LPC21xx definitions */
 char a;
 void uart0_init(){
